@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Pdf
+Complete-React-Course-Course-Guideline.pdf
